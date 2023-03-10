@@ -1,0 +1,20 @@
+info face="Corpulent Caps BRK" size=128 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=1,1,1,1 spacing=-2,-2
+common lineHeight=123 base=106 scaleW=512 scaleH=512 pages=1 packed=0
+page id=0 file="ccaps.png"
+chars count=12
+char id=0     x=228  y=91   width=94   height=96   xoffset=0    yoffset=10   xadvance=94   page=0    chnl=0 
+char id=32    x=0    y=0    width=0    height=0    xoffset=-1   yoffset=104  xadvance=64   page=0    chnl=0 
+char id=48    x=152  y=91   width=76   height=91   xoffset=0    yoffset=15   xadvance=78   page=0    chnl=0 
+char id=49    x=0    y=0    width=29   height=91   xoffset=0    yoffset=15   xadvance=31   page=0    chnl=0 
+char id=50    x=29   y=0    width=76   height=91   xoffset=0    yoffset=15   xadvance=78   page=0    chnl=0 
+char id=51    x=105  y=0    width=76   height=91   xoffset=0    yoffset=15   xadvance=78   page=0    chnl=0 
+char id=52    x=181  y=0    width=76   height=91   xoffset=0    yoffset=15   xadvance=78   page=0    chnl=0 
+char id=53    x=257  y=0    width=76   height=91   xoffset=0    yoffset=15   xadvance=78   page=0    chnl=0 
+char id=54    x=333  y=0    width=76   height=91   xoffset=0    yoffset=15   xadvance=78   page=0    chnl=0 
+char id=55    x=409  y=0    width=75   height=91   xoffset=0    yoffset=15   xadvance=78   page=0    chnl=0 
+char id=56    x=0    y=91   width=76   height=91   xoffset=0    yoffset=15   xadvance=79   page=0    chnl=0 
+char id=57    x=76   y=91   width=76   height=91   xoffset=0    yoffset=15   xadvance=78   page=0    chnl=0 
+kernings count=3
+kerning first=48 second=55 amount=-1
+kerning first=54 second=55 amount=-4
+kerning first=54 second=57 amount=-5
